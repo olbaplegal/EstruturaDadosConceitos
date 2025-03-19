@@ -22,6 +22,6 @@ for (int i = 0; i < tamanho; i++)
     printf("\nvetor %d = %d", i, vetor[i]);
 }
 media = soma / tamanho;
-printf("\nA media dos valores dos vetores e : %d", media);
+printf("\nA media dos valores dos vetores e : %d\n", media);
 return 0;
 }

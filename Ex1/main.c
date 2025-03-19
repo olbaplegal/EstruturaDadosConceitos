@@ -19,6 +19,5 @@ for (int i = 0; i < tamanho; i++)
     printf("%d ", vetor[i]); 
 }
 printf("\n");
-system("pause");
 return 0;
 }
